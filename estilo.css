@@ -1,0 +1,333 @@
+*
+{
+    box-sizing: border-box;
+  }
+  body {
+    font-size: 14px;
+  }
+  .v14_57 {
+    width: 100%;
+    height: 1024px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v14_58 {
+    width: 100%;
+    height: 265px;
+    background: url();
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v14_59 {
+    width: 100%;
+    height: 265px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v14_60 {
+    width: 27px;
+    height: 27px;
+    background: url("images/v16_114.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 10px;
+    left: 237px;
+    overflow: hidden;
+  }
+  .v14_61 {
+    width: 119px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 11px;
+    left: 135px;
+    font-family: SeoulHangang;
+    font-weight: B;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v14_62 {
+    width: 93px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 11px;
+    left: 274px;
+    font-family: SeoulHangang;
+    font-weight: B;
+    font-size: 20px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v14_63 {
+    width: 100%;
+    height: 79px;
+    background: rgba(0,0,0,1);
+    opacity: 1;
+    position: absolute;
+    top: 265px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v14_64 {
+    width: 178px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 285px;
+    left: 657px;
+    font-family: Open Sans;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v14_65 {
+    width: 178px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 285px;
+    left: 435px;
+    font-family: Open Sans;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v14_66 {
+    width: 178px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 285px;
+    left: 809px;
+    font-family: Open Sans;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v14_67 {
+    width: 115px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 285px;
+    left: 1033px;
+    font-family: Open Sans;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v14_68 {
+    width: 71px;
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top: 285px;
+    left: 314px;
+    font-family: Open Sans;
+    font-weight: Regular;
+    font-size: 20px;
+    opacity: 1;
+    text-align: left;
+  }
+  .v14_70 {
+    width: 100%;
+    height: 356px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 389px;
+    left: 138px;
+    overflow: hidden;
+  }
+  .v14_76 {
+    width: 297px;
+    color: rgba(132,174,223,1);
+    position: absolute;
+    top: 411px;
+    left: 572px;
+    font-family: SeoulHangang;
+    font-weight: B;
+    font-size: 25px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v16_100 {
+    width: 277px;
+    color: rgba(218,54,202,1);
+    position: absolute;
+    top: 926px;
+    left: 582px;
+    font-family: SeoulHangang;
+    font-weight: B;
+    font-size: 25px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v14_78 {
+    width: 27px;
+    height: 27px;
+    background: url("images/v16_132.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 10px;
+    left: 138px;
+    overflow: hidden;
+  }
+  .v14_79 {
+    width: 135px;
+    height: 36px;
+    background: url();
+    opacity: 1;
+    position: absolute;
+    top: 696px;
+    left: 151px;
+  }
+  .v15_99 {
+    width: 355px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 994px;
+    left: 30px;
+    font-family: SeoulHangang;
+    font-weight: B;
+    font-size: 12px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v16_110 {
+    width: 485px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 814px;
+    left: 468px;
+    font-family: SeoulHangang;
+    font-weight: B;
+    font-size: 25px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v16_150 {
+    width: 712px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 503px;
+    left: 364px;
+    font-family: SeoulHangang;
+    font-weight: B;
+    font-size: 23px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v14_90 {
+    width: 52px;
+    height: 48px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 14px;
+    left: 1196px;
+    overflow: hidden;
+  }
+  .v14_91 {
+    width: 19px;
+    height: 31px;
+    background: url("images/v16_146.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 9px;
+    left: 14px;
+    overflow: hidden;
+  }
+  .v16_104 {
+    width: 48px;
+    height: 48px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 14px;
+    left: 1120px;
+    overflow: hidden;
+  }
+  .v16_105 {
+    width: 19px;
+    height: 31px;
+    background: url("images/v16_143.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 9px;
+    left: 14px;
+    overflow: hidden;
+  }
+  .v16_103 {
+    width: 19px;
+    height: 31px;
+    background: url("images/v16_145.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 21px;
+    left: 1160px;
+    overflow: hidden;
+  }
+  .v14_92 {
+    width: 26px;
+    height: 28px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 21px;
+    left: 1180px;
+    overflow: hidden;
+  }
+  .v14_93 {
+    width: 26px;
+    height: 28px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v14_94 {
+    width: 356px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 52px;
+    left: 512px;
+    font-family: Kyiv*Type Titling;
+    font-weight: Regular3;
+    font-size: 65px;
+    opacity: 1;
+    text-align: center;
+  }
+  a {
+    color: inherit;
+  }
